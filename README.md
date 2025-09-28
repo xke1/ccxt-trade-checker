@@ -2,7 +2,6 @@
 
 Minimal pre-trade health check for crypto perpetuals using Python + ccxt.  
 Pulls live fees/funding/orderbook and estimates if a $10k **taker** trade beats costs.  
-Educational only.
 
 ## What it checks
 - Fees (bps): maker/taker
